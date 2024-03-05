@@ -45,7 +45,4 @@ com a colaboração de @coloqueSeuX(depreferencia)
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-Você pode personalizar esse README.md conforme necessário para o seu projeto. Certifique-se de incluir informações relevantes, como instruções de instalação, requisitos do sistema, capturas de tela e qualquer outra informação importante para os usuários e colaboradores do seu projeto.
+CopyLeft
