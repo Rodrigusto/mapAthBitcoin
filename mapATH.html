@@ -28,18 +28,12 @@
     // script old
     anychart.onDocumentReady(function () {
 
-      // load the data
+      // daqui load the data
       anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/data.json", function (data) {
 
         // Variables
         // go into the map section of the data
         var geoData = data.records
-
-        // sum of all ath per country
-        var sumath = 0;
-
-        // sum of all price per country
-        var sumprice = 0;
 
         // convert ath and price to numbers
         var numC;
@@ -53,27 +47,12 @@
           // convert strings to numbers and save them to new variables
           numC = parseInt(geoData[i].ath);
           numD = parseInt(geoData[i].price);
-
-          // check if we are in the same country by comparing the geoId. 
-          // if the country is the same add the ath and price to the appropriate variables
-          if ((geoData[i + 1]) != null && (geoData[i].geoId == geoData[i + 1].geoId)) {
-            sumath = sumath + numC;
-            sumprice = sumprice + numD;
-          }
-          else {
-            // add last day ath and price of the same country
-            sumath = sumath + numC;
-            sumprice = sumprice + numD;
-
+          
             // insert the resulting data in the array using the AnyChart keywords 
-            data.push({ id: geoData[i].geoId, value: sumath, size: sumprice, title: geoData[i].countriesAndTerritories })
+            data.push({ id: geoData[i].geoId, value: numC, size: numD, title: geoData[i].countriesAndTerritories })
 
-            // reset the variables to start over
-            sumath = 0;
-            sumprice = 0;
-
-          }
         };
+        // até aqui
 
         // connect the data with the map
         var chart = anychart.map(data);
@@ -135,7 +114,7 @@
           "rgb(35,142,35)", 
           "rgb(33,94,33)", 
           "rgb(47,79,47)"]
-        );
+        ); 
 
         // tell the series what to use as a colorRange (colorScale)
         series.colorScale(ocs);

@@ -246,7 +246,7 @@
     { 
       "dateRep": "14/04/2020",
       "ath": "341536",
-      "price": "20%",
+      "price": "345.000",
       "countriesAndTerritories": "Brazil",
       "geoId": "BR",
       "countryterritoryCode": "BRA",
@@ -381,7 +381,7 @@
     { 
       "dateRep": "14/04/2020",
       "ath": "94",
-      "price": "0",
+      "price": "10000",
       "countriesAndTerritories": "China",
       "geoId": "CN",
       "countryterritoryCode": "CHN",
