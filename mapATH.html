@@ -29,7 +29,7 @@
     anychart.onDocumentReady(function () {
 
       // load the data
-      anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/olddata.json", function (data) {
+      anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/data.json", function (data) {
 
         // Variables
         // go into the map section of the data
@@ -77,7 +77,7 @@
 
         // connect the data with the map
         var chart = anychart.map(data);
-        chart.geoData(anychart.records.world);
+        chart.geoData(anychart.maps.world);
 
         // specify the chart type and set the series 
         var series = chart.choropleth(data);
