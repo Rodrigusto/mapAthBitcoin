@@ -1,1258 +1,1467 @@
 {
-    "data": 
+    "map": 
     [
         {
-            "description": "Women were denied the right to vote or to stand for the local election in 2005,although suffrage was slated to possibly be granted by 2009, then set for later in 2011, but suffrage was not granted either of those times.In late September 2011, King Abdullah bin Abdulaziz al-Saud declared that women would be able to vote and run for office starting in 2015.",
+            "description": "",
             "id": "SA",
             "name": "Saudi Arabia",
+            "ath": "1900",
             "price": "20000"
         },
         {
-            "description": "The Pope is only elected by the College of Cardinals; women not being appointed as cardinals, women cannot vote for the Pope.",
+            "description": "",
             "id": "VA",
             "name": "Vatican City",
+            "ath": "1900",
             "price": "20000"
         },
         {
             "description": "",
             "id": "PN",
             "name": "Pitcairn",
+            "ath": "1900",
             "price": "1838"
         },
         {
             "description": "",
             "id": "IM",
             "name": "Isle of Man",
+            "ath": "1900",
             "price": "1881"
         },
         {
             "description": "",
             "id": "CK",
             "name": "Cook Islands",
+            "ath": "1900",
             "price": "1893"
         },
         {
             "description": "",
             "id": "NZ",
             "name": "New Zealand",
+            "ath": "1900",
             "price": "1893"
         },
         {
-            "description": "Indigenous Australian women (and men) not officially  given the right to vote until 1962.",
+            "description": "",
             "id": "AU",
             "name": "Australia",
+            "ath": "1900",
             "price": "1902"
         },
         {
             "description": "",
             "id": "FI",
             "name": "Finland",
+            "ath": "1900",
             "price": "1906"
         },
         {
             "description": "",
             "id": "NO",
             "name": "Norway",
+            "ath": "1900",
             "price": "1913"
         },
         {
             "description": "",
             "id": "DK",
             "name": "Denmark",
+            "ath": "1900",
             "price": "1915"
         },
         {
             "description": "",
             "id": "GL",
             "name": "Greenland",
+            "ath": "1900",
             "price": "1915"
         },
         {
             "description": "",
             "id": "IS",
             "name": "Iceland",
+            "ath": "1900",
             "price": "1915"
         },
         {
             "description": "",
             "id": "FO",
             "name": "Faroe Islands",
+            "ath": "1900",
             "price": "1915"
         },
         {
             "description": "",
             "id": "AM",
             "name": "Armenia",
+            "ath": "1900",
             "price": "1919"
         },
         {
-            "description": "1917–1919 for most of Canada; Prince Edward Island in 1922; Newfoundland in 1925; Quebec in 1940. To help win a mandate for conscription, the federal Conservative government of Robert Borden granted the vote in 1917 to female war widows, women serving overseas,and the female relatives of men serving overseas. However, the same legislation, the Wartime Elections Act, disenfranchised those who became naturalized Canadian citizens after 1902. Women over 21 who were \"not alien-born\"and who met certain property qualifications were allowed to vote in federal elections in 1918. Women first won the vote provincially in Manitoba, Saskatchewan and Alberta in 1916; British Columbia and Ontario in 1917; Nova Scotia in 1918; New Brunswick in 1919 (women could not run for New Brunswick provincial office until 1934); Prince Edward Island in 1922; Newfoundland in 1925 (which did not join Confederation until 1949); and Quebec in 1940. Aboriginal women were notoffered the right to vote until 1960. Previous to that they could only vote if they gave up their treaty status. It wasn't until 1948 when Canada signed the UN's Universal Declaration of Human Rights that Canadawas forced to examine the issue of their discrimination against Aboriginal people.",
+            "description": "",
             "id": "CA",
             "name": "Canada",
+            "ath": "1900",
             "price": "1918"
         },
         {
             "description": "",
             "id": "EE",
             "name": "Estonia",
+            "ath": "1900",
             "price": "1917"
         },
         {
             "description": "",
             "id": "LV",
             "name": "Latvia",
+            "ath": "1900",
             "price": "1917"
         },
         {
-            "description": "On July 20, 1917, under the Provisional Government.",
+            "description": "",
             "id": "RU",
             "name": "Russia",
+            "ath": "1900",
             "price": "1917"
         },
         {
-            "description": "Women's suffrage was broadcast for the first time in 1927, in the plebiscite of Cerro Chato.",
+            "description": "",
             "id": "UY",
             "name": "Uruguay",
+            "ath": "1900",
             "price": "1927"
         },
         {
             "description": "",
             "id": "AZ",
             "name": "Azerbaijan",
+            "ath": "1900",
             "price": "1918"
         },
         {
             "description": "",
             "id": "GE",
             "name": "Georgia",
+            "ath": "1900",
             "price": "1918"
         },
         {
             "description": "",
             "id": "DE",
             "name": "Germany",
+            "ath": "1900",
             "price": "1918"
         },
         {
             "description": "",
             "id": "HU",
             "name": "Hungary",
+            "ath": "1900",
             "price": "1918"
         },
         {
-            "description": "From 1918, with the rest of the United Kingdom,women could vote at 30 with property qualifications or in university constituencies, while men could vote at 21 with no qualification. From separation in 1922, the Irish Free State gave equal voting rights to men and women.",
+            "description": "",
             "id": "IE",
             "name": "Ireland",
+            "ath": "1900",
             "price": "1922"
         },
         {
             "description": "",
             "id": "KG",
             "name": "Kyrgyzstan",
+            "ath": "1900",
             "price": "1918"
         },
         {
             "description": "",
             "id": "LT",
             "name": "Lithuania",
+            "ath": "1900",
             "price": "1918"
         },
         {
-            "description": "Previous to the Partition of Poland in 1795,tax-paying females were allowed to take part in political life.",
+            "description": "",
             "id": "PL",
             "name": "Poland",
+            "ath": "1900",
             "price": "1918"
         },
         {
-            "description": "From 1918–1928, women could vote at 30 with property qualifications or as graduates of UK universities,while men could vote at 21 with no qualification.",
+            "description": "",
             "id": "GB",
             "name": "United Kingdom",
+            "ath": "1900",
             "price": "1928"
         },
         {
             "description": "",
             "id": "AT",
             "name": "Austria",
+            "ath": "1900",
             "price": "1919"
         },
         {
             "description": "",
             "id": "BY",
             "name": "Belarus",
+            "ath": "1900",
             "price": "1919"
         },
         {
-            "description": "Was granted in the constitution in 1919, for communal voting.Suffrage for the provincial councils and the national parliament only came in 1948.",
+            "description": "",
             "id": "BE",
             "name": "Belgium",
+            "ath": "1900",
             "price": "1948"
         },
         {
-            "description": "Restrictions on franchise applied to men and women until after Liberation in 1945",
+            "description": "",
             "id": "JE",
             "name": "Jersey",
+            "ath": "1900",
             "price": "1919"
         },
         {
             "description": "",
             "id": "LU",
             "name": "Luxembourg",
+            "ath": "1900",
             "price": "1919"
         },
         {
             "description": "",
             "id": "NL",
             "name": "Netherlands",
+            "ath": "1900",
             "price": "1919"
         },
         {
             "description": "",
             "id": "UA",
             "name": "Ukraine",
+            "ath": "1900",
             "price": "1919"
         },
         {
             "description": "",
             "id": "ZW",
             "name": "Zimbabwe",
+            "ath": "1900",
             "price": "1919"
         },
         {
             "description": "",
             "id": "AL",
             "name": "Albania",
+            "ath": "1900",
             "price": "1920"
         },
         {
             "description": "",
             "id": "CZ",
             "name": "Czech Republic",
+            "ath": "1900",
             "price": "1920"
         },
         {
             "description": "",
             "id": "SK",
             "name": "Slovakia",
+            "ath": "1900",
             "price": "1920"
         },
         {
             "description": "",
             "id": "US",
             "name": "United States",
+            "ath": "1900",
             "price": "1920"
         },
         {
             "description": "",
             "id": "SE",
             "name": "Sweden",
+            "ath": "1900",
             "price": "1921"
         },
         {
             "description": "",
             "id": "MM",
             "name": "Myanmar",
+            "ath": "1900",
             "price": "1922"
         },
         {
             "description": "",
             "id": "KZ",
             "name": "Kazakhstan",
+            "ath": "1900",
             "price": "1924"
         },
         {
             "description": "",
             "id": "MN",
             "name": "Mongolia",
+            "ath": "1900",
             "price": "1924"
         },
         {
             "description": "",
             "id": "TJ",
             "name": "Tajikistan",
+            "ath": "1900",
             "price": "1924"
         },
         {
             "description": "",
             "id": "TM",
             "name": "Turkmenistan",
+            "ath": "1900",
             "price": "1924"
         },
         {
-            "description": "Suffrage was granted for the first time in 1925 to either sex,to men over the age of 21 and women over the age of 30,as in Great Britain (the \"Mother Country\", as Trinidad and Tobago was still a colony at the time) In 1945 full suffrage was granted to women.",
+            "description": "",
             "id": "TT",
             "name": "Trinidad and Tobago",
+            "ath": "1900",
             "price": "1925"
         },
         {
             "description": "",
             "id": "EC",
             "name": "Ecuador",
+            "ath": "1900",
             "price": "1929"
         },
         {
-            "description": "As part of the Kingdom of Romania, women who met certain qualifications were allowed to vote in local elections, starting in 1929. After Constitution from 1938, the voting rights were extended to women for general elections by the Electoral Law 1939. In 1940, after the formation of the Moldavian SSR, equal voting rights were granted to men and women.",
+            "description": "",
             "id": "MD",
             "name": "Moldova",
+            "ath": "1900",
             "price": "1940"
         },
         {
-            "description": "Limited suffrage was passed for women, restricted to those who were literate. In 1935 the legislature approved suffrage for all women.",
+            "description": "",
             "id": "PR",
             "name": "Puerto Rico",
+            "ath": "1900",
             "price": "1935"
         },
         {
-            "description": "Starting in 1929, women who met certain qualifications were allowed to vote in local elections.After the Constitution from 1938, the voting rights were extended to women for general elections by the Electoral Law 1939. Women could vote on equal terms with men, but both men and women had restrictions,and in practice the restrictions affected women more than men. In 1946, full equal voting rights were granted to men and women.",
+            "description": "",
             "id": "RO",
             "name": "Romania",
+            "ath": "1900",
             "price": "1946"
         },
         {
-            "description": "1930 (Local Elections, Literate Only), 1952 (Unconditional)",
+            "description": "",
             "id": "GR",
             "name": "Greece",
+            "ath": "1900",
             "price": "1952"
         },
         {
-            "description": "White women only 1930; women of other races were enfranchised in 1994, at the same time as men.",
+            "description": "",
             "id": "ZA",
             "name": "South Africa",
+            "ath": "1900",
             "price": "1994"
         },
         {
-            "description": "1930 (for local elections), 1934 (for national elections)",
+            "description": "",
             "id": "TR",
             "name": "Turkey",
+            "ath": "1900",
             "price": "1934"
         },
         {
-            "description": "With restrictions in 1931, restrictions lifted in 1976",
+            "description": "",
             "id": "PT",
             "name": "Portugal",
+            "ath": "1900",
             "price": "1976"
         },
         {
             "description": "",
             "id": "ES",
             "name": "Spain",
+            "ath": "1900",
             "price": "1931"
         },
         {
             "description": "",
             "id": "LK",
             "name": "Sri Lanka",
+            "ath": "1900",
             "price": "1931"
         },
         {
             "description": "",
             "id": "BR",
             "name": "Brazil",
+            "ath": "1900",
             "price": "1932"
         },
         {
             "description": "",
             "id": "MV",
             "name": "Maldives",
+            "ath": "1900",
             "price": "1932"
         },
         {
             "description": "",
             "id": "TH",
             "name": "Thailand",
+            "ath": "1900",
             "price": "1932"
         },
         {
             "description": "",
             "id": "CU",
             "name": "Cuba",
+            "ath": "1900",
             "price": "1934"
         },
         {
-            "description": "1937 (for Europeans only)",
+            "description": "",
             "id": "ID",
             "name": "Indonesia",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "PH",
             "name": "Philippines",
+            "ath": "1900",
             "price": "1937"
         },
         {
             "description": "",
             "id": "BO",
             "name": "Bolivia",
+            "ath": "1900",
             "price": "1938"
         },
         {
             "description": "",
             "id": "BG",
             "name": "Bulgaria",
+            "ath": "1900",
             "price": "1938"
         },
         {
             "description": "",
             "id": "UZ",
             "name": "Uzbekistan",
+            "ath": "1900",
             "price": "1938"
         },
         {
             "description": "",
             "id": "SV",
             "name": "El Salvador",
+            "ath": "1900",
             "price": "1939"
         },
         {
             "description": "",
             "id": "PA",
             "name": "Panama",
+            "ath": "1900",
             "price": "1941"
         },
         {
             "description": "",
             "id": "DO",
             "name": "Dominican Republic",
+            "ath": "1900",
             "price": "1942"
         },
         {
             "description": "",
             "id": "BM",
             "name": "Bermuda",
+            "ath": "1900",
             "price": "1944"
         },
         {
             "description": "",
             "id": "FR",
             "name": "France",
+            "ath": "1900",
             "price": "1944"
         },
         {
             "description": "",
             "id": "JM",
             "name": "Jamaica",
+            "ath": "1900",
             "price": "1944"
         },
         {
             "description": "",
             "id": "IT",
             "name": "Italy",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "SN",
             "name": "Senegal",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "TG",
             "name": "Togo",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "RS",
             "name": "Serbia",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "ME",
             "name": "Montenegro",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "HR",
             "name": "Croatia",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "SI",
             "name": "Slovenia",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "BA",
             "name": "Bosnia and Herzegovina",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "MK",
             "name": "Macedonia",
+            "ath": "1900",
             "price": "1945"
         },
         {
             "description": "",
             "id": "CM",
             "name": "Cameroon",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "DJ",
             "name": "Djibouti",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "GT",
             "name": "Guatemala",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "KR",
             "name": "Korea, North",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "LR",
             "name": "Liberia",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "VE",
             "name": "Venezuela",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "VN",
             "name": "Vietnam",
+            "ath": "1900",
             "price": "1946"
         },
         {
             "description": "",
             "id": "AR",
             "name": "Argentina",
+            "ath": "1900",
             "price": "1947"
         },
         {
-            "description": "In 1947, women won suffrage through Constitution of the Republic of China. in 1949, the People's Republic of China (PRC) replaced the Republic of China (ROC) as government of the Chinese mainland. The ROC moved to the island of Taiwan. The PRC constitution recognizes women's equal political rights with men.",
+            "description": "",
             "id": "CN",
             "name": "China",
+            "ath": "1900",
             "price": "1947"
         },
         {
-            "description": "In 1947, on its independence from the United Kingdom, India granted equal voting rights to all men and women.",
+            "description": "",
             "id": "IN",
             "name": "India",
+            "ath": "1900",
             "price": "1947"
         },
         {
             "description": "",
             "id": "JP",
             "name": "Japan",
+            "ath": "1900",
             "price": "1947"
         },
         {
             "description": "",
             "id": "MT",
             "name": "Malta",
+            "ath": "1900",
             "price": "1947"
         },
         {
             "description": "",
             "id": "MX",
             "name": "Mexico",
+            "ath": "1900",
             "price": "1947"
         },
         {
-            "description": "In 1947, on its independence from the United Kingdom and India, Pakistan granted full voting rights for men and women",
+            "description": "",
             "id": "PK",
             "name": "Pakistan",
+            "ath": "1900",
             "price": "1947"
         },
         {
             "description": "",
             "id": "SG",
             "name": "Singapore",
+            "ath": "1900",
             "price": "1947"
         },
         {
-            "description": "In 1945, Taiwan was return from Japan to China. In 1947, women won the suffrage under the Constitution of the Republic of China. In 1949, Republic of China(ROC) lost mainland China, moved to Taiwan.",
+            "description": "",
             "id": "TW",
             "name": "Taiwan",
+            "ath": "1900",
             "price": "1947"
         },
         {
-            "description": "Women's suffrage was granted with the declaration of independence.",
+            "description": "",
             "id": "IL",
             "name": "Israel",
+            "ath": "1900",
             "price": "1948"
         },
         {
             "description": "",
             "id": "KP",
             "name": "Korea, South",
+            "ath": "1900",
             "price": "1948"
         },
         {
             "description": "",
             "id": "NE",
             "name": "Niger",
+            "ath": "1900",
             "price": "1948"
         },
         {
             "description": "",
             "id": "SC",
             "name": "Seychelles",
+            "ath": "1900",
             "price": "1948"
         },
         {
             "description": "",
             "id": "SR",
             "name": "Suriname",
+            "ath": "1900",
             "price": "1948"
         },
         {
-            "description": "From 1934–1949, women could vote in local elections at 25, while men could vote in all elections at 21. In both cases, literacy was required.",
+            "description": "",
             "id": "CL",
             "name": "Chile",
+            "ath": "1900",
             "price": "1949"
         },
         {
             "description": "",
             "id": "CR",
             "name": "Costa Rica",
+            "ath": "1900",
             "price": "1949"
         },
         {
             "description": "",
             "id": "HK",
             "name": "Hong Kong",
+            "ath": "1900",
             "price": "1949"
         },
         {
             "description": "",
             "id": "NL",
             "name": "Netherlands",
+            "ath": "1900",
             "price": "1949"
         },
         {
             "description": "",
             "id": "SY",
             "name": "Syria",
+            "ath": "1900",
             "price": "1949"
         },
         {
             "description": "",
             "id": "BB",
             "name": "Barbados",
+            "ath": "1900",
             "price": "1950"
         },
         {
             "description": "",
             "id": "HT",
             "name": "Haiti",
+            "ath": "1900",
             "price": "1950"
         },
         {
             "description": "",
             "id": "AG",
             "name": "Antigua and Barbuda",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "VG",
             "name": "British Virgin Islands",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "MS",
             "name": "Montserrat",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "PM",
             "name": "Saint Kitts and Nevis",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "AI",
             "name": "Anguilla",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "GD",
             "name": "Grenada",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "LC",
             "name": "St Lucia",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "VC",
             "name": "St Vincent and the Grenadines",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "DM",
             "name": "Dominica",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "NP",
             "name": "Nepal",
+            "ath": "1900",
             "price": "1951"
         },
         {
             "description": "",
             "id": "CI",
             "name": "Côte d'Ivoire",
+            "ath": "1900",
             "price": "1952"
         },
         {
-            "description": "In 1957 a requirement for women (but not men) to have elementary educationbefore voting was dropped, as was voting being compulsory for men (but not women).",
+            "description": "",
             "id": "LB",
             "name": "Lebanon",
+            "ath": "1900",
             "price": "1952"
         },
         {
             "description": "",
             "id": "BT",
             "name": "Bhutan",
+            "ath": "1900",
             "price": "1953"
         },
         {
             "description": "",
             "id": "GY",
             "name": "Guyana",
+            "ath": "1900",
             "price": "1953"
         },
         {
             "description": "",
             "id": "BZ",
             "name": "Belize",
+            "ath": "1900",
             "price": "1954"
         },
         {
             "description": "",
             "id": "CO",
             "name": "Colombia",
+            "ath": "1900",
             "price": "1954"
         },
         {
             "description": "",
             "id": "GH",
             "name": "Ghana",
+            "ath": "1900",
             "price": "1954"
         },
         {
             "description": "",
             "id": "KH",
             "name": "Cambodia",
+            "ath": "1900",
             "price": "1955"
         },
         {
             "description": "",
             "id": "ET",
             "name": "Ethiopia",
+            "ath": "1900",
             "price": "1955"
         },
         {
             "description": "",
             "id": "ER",
             "name": "Eritrea",
+            "ath": "1900",
             "price": "1955"
         },
         {
             "description": "",
             "id": "HN",
             "name": "Honduras",
+            "ath": "1900",
             "price": "1955"
         },
         {
             "description": "",
             "id": "NI",
             "name": "Nicaragua",
+            "ath": "1900",
             "price": "1955"
         },
         {
             "description": "",
             "id": "PE",
             "name": "Peru",
+            "ath": "1900",
             "price": "1955"
         },
         {
             "description": "",
             "id": "BJ",
             "name": "Benin",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "KM",
             "name": "Comoros",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "EG",
             "name": "Egypt",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "GA",
             "name": "Gabon",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "ML",
             "name": "Mali",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "MU",
             "name": "Mauritius",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "SO",
             "name": "Somalia",
+            "ath": "1900",
             "price": "1956"
         },
         {
             "description": "",
             "id": "KY",
             "name": "Cayman Islands",
+            "ath": "1900",
             "price": "1957"
         },
         {
             "description": "",
             "id": "MY",
             "name": "Malaysia",
+            "ath": "1900",
             "price": "1957"
         },
         {
             "description": "",
             "id": "BF",
             "name": "Burkina Faso",
+            "ath": "1900",
             "price": "1958"
         },
         {
             "description": "",
             "id": "TD",
             "name": "Chad",
+            "ath": "1900",
             "price": "1958"
         },
         {
             "description": "",
             "id": "GN",
             "name": "Guinea",
+            "ath": "1900",
             "price": "1958"
         },
         {
             "description": "",
             "id": "LA",
             "name": "Laos",
+            "ath": "1900",
             "price": "1958"
         },
         {
             "description": "",
             "id": "NG",
             "name": "Nigeria",
+            "ath": "1900",
             "price": "1958"
         },
         {
-            "description": "Elections currently suspended since 1962 and 1965.Only in local elections are they permitted.",
+            "description": "",
             "id": "BN",
             "name": "Brunei",
+            "ath": "1900",
             "price": "1959"
         },
         {
             "description": "",
             "id": "MG",
             "name": "Madagascar",
+            "ath": "1900",
             "price": "1959"
         },
         {
             "description": "",
             "id": "SM",
             "name": "San Marino",
+            "ath": "1900",
             "price": "1959"
         },
         {
             "description": "",
             "id": "TZ",
             "name": "Tanzania",
+            "ath": "1900",
             "price": "1959"
         },
         {
             "description": "",
             "id": "TN",
             "name": "Tunisia",
+            "ath": "1900",
             "price": "1959"
         },
         {
             "description": "",
             "id": "BS",
             "name": "Bahamas",
+            "ath": "1900",
             "price": "1960"
         },
         {
             "description": "",
             "id": "CY",
             "name": "Cyprus",
+            "ath": "1900",
             "price": "1960"
         },
         {
             "description": "",
             "id": "GM",
             "name": "Gambia",
+            "ath": "1900",
             "price": "1960"
         },
         {
             "description": "",
             "id": "TO",
             "name": "Tonga",
+            "ath": "1900",
             "price": "1960"
         },
         {
             "description": "",
             "id": "BI",
             "name": "Burundi",
+            "ath": "1900",
             "price": "1961"
         },
         {
             "description": "",
             "id": "MW",
             "name": "Malawi",
+            "ath": "1900",
             "price": "1961"
         },
         {
             "description": "",
             "id": "MR",
             "name": "Mauritania",
+            "ath": "1900",
             "price": "1961"
         },
         {
             "description": "",
             "id": "PY",
             "name": "Paraguay",
+            "ath": "1900",
             "price": "1961"
         },
         {
             "description": "",
             "id": "RW",
             "name": "Rwanda",
+            "ath": "1900",
             "price": "1961"
         },
         {
-            "description": "In the 1790s, while Sierra Leone was still a colony,women voted in the elections.",
+            "description": "",
             "id": "SL",
             "name": "Sierra Leone",
+            "ath": "1900",
             "price": "1961"
         },
         {
-            "description": "In 1962, on its independence from France, Algeria granted equal voting rights to all men and women.",
+            "description": "",
             "id": "DZ",
             "name": "Algeria",
+            "ath": "1900",
             "price": "1962"
         },
         {
             "description": "",
             "id": "MC",
             "name": "Monaco",
+            "ath": "1900",
             "price": "1962"
         },
         {
             "description": "",
             "id": "UG",
             "name": "Uganda",
+            "ath": "1900",
             "price": "1962"
         },
         {
             "description": "",
             "id": "ZM",
             "name": "Zambia",
+            "ath": "1900",
             "price": "1962"
         },
         {
             "description": "",
             "id": "AF",
             "name": "Afghanistan",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "CD",
             "name": "Congo, Republic of the",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "GQ",
             "name": "Equatorial Guinea",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "FJ",
             "name": "Fiji",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "IR",
             "name": "Iran",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "KE",
             "name": "Kenya",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "MA",
             "name": "Morocco",
+            "ath": "1900",
             "price": "1963"
         },
         {
             "description": "",
             "id": "LY",
             "name": "Kingdom of Libya",
+            "ath": "1900",
             "price": "1964"
         },
         {
             "description": "",
             "id": "PG",
             "name": "Papua New Guinea",
+            "ath": "1900",
             "price": "1964"
         },
         {
             "description": "",
             "id": "SD",
             "name": "Sudan",
+            "ath": "1900",
             "price": "1964"
         },
         {
             "description": "",
             "id": "SS",
             "name": "Sudan",
+            "ath": "1900",
             "price": "1964"
         },
         {
             "description": "",
             "id": "BW",
             "name": "Botswana",
+            "ath": "1900",
             "price": "1965"
         },
         {
             "description": "",
             "id": "LS",
             "name": "Lesotho",
+            "ath": "1900",
             "price": "1965"
         },
         {
             "description": "",
             "id": "CG",
             "name": "Congo",
+            "ath": "1900",
             "price": "1967"
         },
         {
             "description": "",
             "id": "KI",
             "name": "Kiribati",
+            "ath": "1900",
             "price": "1967"
         },
         {
             "description": "",
             "id": "TV",
             "name": "Tuvalu",
+            "ath": "1900",
             "price": "1967"
         },
         {
             "description": "",
             "id": "NR",
             "name": "Nauru",
+            "ath": "1900",
             "price": "1968"
         },
         {
             "description": "",
             "id": "SZ",
             "name": "Swaziland",
+            "ath": "1900",
             "price": "1968"
         },
         {
             "description": "",
             "id": "AD",
             "name": "Andorra",
+            "ath": "1900",
             "price": "1970"
         },
         {
-            "description": "1967 - South, 1970 - North Yemen",
+            "description": "",
             "id": "YE",
             "name": "Yemen",
+            "ath": "1900",
             "price": "1970"
         },
         {
             "description": "",
             "id": "BD",
             "name": "Bangladesh",
+            "ath": "1900",
             "price": "1971"
         },
         {
-            "description": "Women obtained the right to vote in national elections in 1971. Women obtained the right to vote at local canton levelbetween 1959 (Vaud and Neuchâtel in that year)and 1990 (Appenzell Innerrhoden).",
+            "description": "",
             "id": "CH",
             "name": "Switzerland",
+            "ath": "1900",
             "price": "1971"
         },
         {
             "description": "",
             "id": "JO",
             "name": "Jordan",
+            "ath": "1900",
             "price": "1974"
         },
         {
             "description": "",
             "id": "SB",
             "name": "Solomon Islands",
+            "ath": "1900",
             "price": "1974"
         },
         {
             "description": "",
             "id": "AO",
             "name": "Angola",
+            "ath": "1900",
             "price": "1975"
         },
         {
             "description": "",
             "id": "CV",
             "name": "Cape Verde",
+            "ath": "1900",
             "price": "1975"
         },
         {
             "description": "",
             "id": "MZ",
             "name": "People's Republic of Mozambique",
+            "ath": "1900",
             "price": "1975"
         },
         {
             "description": "",
             "id": "ST",
             "name": "São Tomé and Príncipe",
+            "ath": "1900",
             "price": "1975"
         },
         {
             "description": "",
             "id": "VU",
             "name": "Vanuatu",
+            "ath": "1900",
             "price": "1975"
         },
         {
             "description": "",
             "id": "TL",
             "name": "Timor-Leste",
+            "ath": "1900",
             "price": "1976"
         },
         {
             "description": "",
             "id": "GW",
             "name": "Guinea-Bissau",
+            "ath": "1900",
             "price": "1977"
         },
         {
             "description": "",
             "id": "MH",
             "name": "Marshall Islands",
+            "ath": "1900",
             "price": "1979"
         },
         {
             "description": "",
             "id": "FM",
             "name": "Micronesia",
+            "ath": "1900",
             "price": "1979"
         },
         {
             "description": "",
             "id": "PW",
             "name": "Palau",
+            "ath": "1900",
             "price": "1979"
         },
         {
             "description": "",
             "id": "IQ",
             "name": "Iraq",
+            "ath": "1900",
             "price": "1980"
         },
         {
             "description": "",
             "id": "LI",
             "name": "Liechtenstein",
+            "ath": "1900",
             "price": "1984"
         },
         {
-            "description": "1985 – women's suffrage later removed in 1999,re-granted in 2005",
+            "description": "",
             "id": "KW",
             "name": "Kuwait",
+            "ath": "1900",
             "price": "2005"
         },
         {
             "description": "",
             "id": "CF",
             "name": "Central African Republic",
+            "ath": "1900",
             "price": "1986"
         },
         {
-            "description": "At independence from South Africa.1989 - upon its independence",
+            "description": "",
             "id": "NA",
             "name": "Namibia",
+            "ath": "1900",
             "price": "1989"
         },
         {
             "description": "",
             "id": "AS",
             "name": "Samoa",
+            "ath": "1900",
             "price": "1990"
         },
         {
             "description": "",
             "id": "QA",
             "name": "Qatar",
+            "ath": "1900",
             "price": "1997"
         },
         {
             "description": "",
             "id": "BH",
             "name": "Bahrain",
+            "ath": "1900",
             "price": "2002"
         },
         {
             "description": "",
             "id": "OM",
             "name": "Oman",
+            "ath": "1900",
             "price": "2003"
         },
         {
-            "description": "Limited suffrage for both men and women",
+            "description": "",
             "id": "AE",
             "name": "United Arab Emirates",
+            "ath": "1900",
             "price": "2006"
         }
     ]
