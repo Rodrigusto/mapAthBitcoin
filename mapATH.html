@@ -24,28 +24,12 @@
 <body>
   <div id="container"></div>
   <script>
-
-    // Endpoint da API da Binance para obter todos os preços de mercado atuais
-    var apiUrl = 'https://api.binance.com/api/v3/ticker/price';
-
-    // Função para fazer uma solicitação HTTP GET para a API da Binance
-    function getBinanceData(url, callback) {
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', url, true);
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                callback(JSON.parse(xhr.responseText));
-            }
-        };
-        xhr.send();
-    }
-
     
     // script old
     anychart.onDocumentReady(function () {
 
       // load the data
-      anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/newData.json", function (data) {
+      anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/olddata.json", function (data) {
 
         // Variables
         // go into the map section of the data
