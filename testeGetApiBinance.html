@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preços de Mercado da Binance</title>
+</head>
+<body>
+
+<h1>BTC price in Binance</h1>
+<ul id="market-prices"></ul>
+
+<script>
+    // Endpoint da API da Binance para obter todos os preços de mercado atuais
+    var apiUrl = 'https://api.binance.com/api/v3/ticker/price';
+
+    // Função para fazer uma solicitação HTTP GET para a API da Binance
+    function getBinanceData(url, callback) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                callback(JSON.parse(xhr.responseText));
+            }
+        };
+        xhr.send();
+    }
+
+    // Função para exibir os preços de mercado na página
+    function displayMarketPrices(data) {
+        var marketPricesElement = document.getElementById('market-prices');
+
+        // Iterar sobre os dados e adicionar os preços de mercado à lista
+        data.forEach(function(item) {
+            var listItem = document.createElement('li');
+            listItem.textContent = item.symbol + ': ' + item.price;
+            marketPricesElement.appendChild(listItem);
+        });
+    }
+
+    // Obter dados da Binance API e exibir os preços de mercado
+    getBinanceData(apiUrl, displayMarketPrices);
+</script>
+
+</body>
+</html>

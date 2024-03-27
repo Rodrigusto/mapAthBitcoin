@@ -45,19 +45,19 @@
     anychart.onDocumentReady(function () {
 
       // load the data
-      anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/data.json", function (data) {
+      anychart.data.loadJsonFile("https://raw.githubusercontent.com/Rodrigusto/mapAthBitcoin/master/newData.json", function (data) {
 
         // Variables
-        // go into the records section of the data
-        var geoData = data.records
+        // go into the map section of the data
+        var geoData = data.map
 
-        // sum of all cases per country
+        // sum of all ath per country
         var sumath = 0;
 
         // sum of all price per country
         var sumprice = 0;
 
-        // convert cases and price to numbers
+        // convert ath and price to numbers
         var numC;
         var numD;
 
@@ -67,17 +67,17 @@
         // Go through the initial data
         for (var i = 0; i < geoData.length; i++) {
           // convert strings to numbers and save them to new variables
-          numC = parseInt(geoData[i].cases);
+          numC = parseInt(geoData[i].ath);
           numD = parseInt(geoData[i].price);
 
           // check if we are in the same country by comparing the geoId. 
-          // if the country is the same add the cases and price to the appropriate variables
+          // if the country is the same add the ath and price to the appropriate variables
           if ((geoData[i + 1]) != null && (geoData[i].geoId == geoData[i + 1].geoId)) {
             sumath = sumath + numC;
             sumprice = sumprice + numD;
           }
           else {
-            // add last day cases and price of the same country
+            // add last day ath and price of the same country
             sumath = sumath + numC;
             sumprice = sumprice + numD;
 
@@ -124,6 +124,7 @@
         series_1.normal().stroke("rgb(150,33,31)");
         series_1.hovered().stroke("rgb(150,33,31)", 2);
         series_1.selected().stroke("rgb(150,33,31)", 4);
+        
 
         // set the chart title
         chart.title("MAP $BTC ATH");
